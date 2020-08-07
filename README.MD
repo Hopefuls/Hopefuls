@@ -36,7 +36,7 @@
  **What do i do as of now:**
  
  - Code Spigot Plugins on request (sometimes free, sometimes for payment)
- - Provide support on [Leoko's Spigot Plugins](https://www.spigotmc.org/resources/authors/leoko.34641/) on Discord
+ - Provide support on [Leoko's Spigot Plugins](https://www.spigotmc.org/resources/authors/leoko.34641/) on [Discord (Skamps Dev-Team)](https://discord.com/invite/ycDG6rS)
 
 **My current (active) Projects**
 
