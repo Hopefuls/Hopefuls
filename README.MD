@@ -29,8 +29,8 @@ I am a Intermediate Java Developer. Coding is my passion.
 
 **Links:**
 
- - [My Website hopefuls.de (WIP)](https://hopefuls.de)
- - [Spigot Profile](https://www.spigotmc.org/members/hopedev.760200/)
+ - [My Website hopefuls.de (WIP, will redirect to Github)](https://hopefuls.de)
+ - [Spigot Profile with my published Spigot Plugins](https://www.spigotmc.org/members/hopedev.760200/)
 
 **Contact me:**
 - **for Business inquiries:**
