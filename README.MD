@@ -1,4 +1,4 @@
-![Logo](https://content.hopefuls.de/banner.png)
+<center>![Logo](https://content.hopefuls.de/banner.png)</center>
 
 # Welcome to my Github Profile!
  My online-alias is **HopeDev**, my Real Name is **Aurel**. I am a Intermediate **Java Developer**. Coding is my passion.
