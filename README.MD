@@ -1,6 +1,6 @@
 ![Logo](https://content.hopefuls.de/banner.png)
 
-## Welcome to my Github Profile! My Name is HopeDev
+## Welcome to my Github Profile! My Name is HopeDev.
 I am a Intermediate Java Developer. Coding is my passion.
 
 **What i can do:**
@@ -29,8 +29,8 @@ I am a Intermediate Java Developer. Coding is my passion.
 
 **Links:**
 
- - [My Website hopefuls.de (WIP, will redirect to Github)](https://hopefuls.de)
- - [Spigot Profile with my published Spigot Plugins](https://www.spigotmc.org/members/hopedev.760200/)
+ - [My Website hopefuls.de (WIP)](https://hopefuls.de) | [Proof of Domain Ownership](https://github.com/Hopeful-Developers)
+ - [Spigot Profile](https://www.spigotmc.org/members/hopedev.760200/)
 
 **Contact me:**
 - **for Business inquiries:**
@@ -38,5 +38,4 @@ I am a Intermediate Java Developer. Coding is my passion.
   - E-Mail: hopedevmail@yahoo.com
  - **For Spigot Plugin requests or other:**
 	 - Discord: Hope#5050
-
 
