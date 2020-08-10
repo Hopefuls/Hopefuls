@@ -39,6 +39,7 @@
  - Provide support on [Leoko's Spigot Plugins](https://www.spigotmc.org/resources/authors/leoko.34641/) on [Discord (Skamps Dev-Team)](https://discord.com/invite/ycDG6rS)
 
 **My current (active) Projects**
+
 [![Hopeful's Stats](https://github-readme-stats.vercel.app/api?username=Hopefuls)](https://github.com/anuraghazra/github-readme-stats)
 
  - [HopeCommander](https://github.com/Hopefuls/HopeCommander) on [Spigot](https://www.spigotmc.org/resources/hopecommander.81455/)
