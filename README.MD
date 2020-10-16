@@ -25,10 +25,10 @@
      - Repository and Issue-Management
  - <ins>Personal-wise Skills</ins>:
     - Positive
-      - Teamwork
       - Work-management
       - Tidiness
     - Negative
+      - Teamwork
       - sometimes impatient
       - can't handle time-pressure that well
       
