@@ -64,9 +64,9 @@
  - [My Website hopefuls.de (WIP, redirects to Github for now)](https://hopefuls.de) | [Proof of Domain Ownership](https://github.com/Hopeful-Developers)
  - [Spigot Profile with my published resources](https://www.spigotmc.org/members/hopedev.760200/)
 
-**Other**
+**Fun Projects**
  - [Watch wide Putin](http://putin.tf)
- - 
+ - [Checkyourdms.tf](https://checkyourdms.fr)
 ## Contact me
 - **for Business inquiries:**
   - Discord: Hope#5050
