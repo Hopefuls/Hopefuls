@@ -4,6 +4,8 @@
 # Welcome to my Github Profile!
  My online-alias is **HopeDev**, my Real Name is **Aurel**. I am a Intermediate **Java Developer**. Coding is my passion.
 
+[Shelter is the one thing you wish, but not always require](https://www.youtube.com/watch?v=fzQ6gRAEoy0)
+
 ## TL;DR Urls
 [Discord Server](https://discord.hopefuls.de) | [Website](https://hopefuls.de) | [Email](mailto:hopedevmail@yahoo.com)
 ## About me
