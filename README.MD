@@ -15,8 +15,6 @@
  - <ins>Programming-wise Skills</ins>:
    - Java
      - Basic and advanced understanding
-   - Typescript/JS
-     - Basic
    - SQL Syntax
      - basic
     - Linux-Systemadministration (Basic and partially Advanced)
