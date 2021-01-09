@@ -65,6 +65,7 @@
 **abandoned Projects worth mentioning**
  - [Mope, a Discord Multipurpose Bot](https://github.com/Hopefuls/Mope)
  - [AdvancedLicense-Tester](https://github.com/Hopefuls/AdvancedLicense-Tester) | [about AdvancedLicense](https://www.spigotmc.org/resources/advancedlicense.20823/)
+ 
  **About..** 
  - [Spigot Plugins, what is that](https://www.spigotmc.org/wiki/about-spigot/)
  - [About Discord Bots](https://discord.com/developers/docs/intro)
