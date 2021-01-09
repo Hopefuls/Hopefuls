@@ -3,9 +3,11 @@
 
 [Shelter is the one thing you wish, but not always require](https://www.youtube.com/watch?v=fzQ6gRAEoy0)
 
-[![Years Badge](https://badges.pufler.dev/years/Hopefuls)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/Hopefuls)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/Hopefuls)
+[![Years Badge](https://badges.pufler.dev/years/Hopefuls)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/Hopefuls)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/Hopefuls)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Hopefuls&theme=dark&show_icons=true)![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HopeDev&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Hopefuls&theme=dark&show_icons=true)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HopeDev&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hopefuls&theme=dark)
 
