@@ -73,7 +73,7 @@
 
 **Links**
 
- - [My Website hopefuls.de (WIP, redirects to Github for now)](https://hopefuls.de) | [Proof of Domain Ownership](https://github.com/Hopeful-Developers)
+ - [My Website hopefuls.de](https://hopefuls.de)
  - [Spigot Profile with my published resources](https://www.spigotmc.org/members/hopedev.760200/)
 
 **Fun Projects**
