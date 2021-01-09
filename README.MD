@@ -1,6 +1,4 @@
 
-![Logo](https://content.hopefuls.de/banner.png)
-
 [![Years Badge](https://badges.pufler.dev/years/Hopefuls)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/Hopefuls)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)
 
 # Welcome to my Github Profile!
