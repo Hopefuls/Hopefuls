@@ -11,7 +11,6 @@
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HopeDev&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hopefuls&theme=dark)
-
 ## TL;DR Urls
 [Discord Server](https://discord.gg/hDxsHzN) | [Website](https://hopefuls.de) | [Email](mailto:ballinaurel@gmail.com)
 ## About me
@@ -46,6 +45,7 @@
       - can't handle time-pressure that well
       
 ## About my Work
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hopefuls&repo=JavaHTTPSessions&theme=dark)](https://github.com/Hopefuls/JavaHTTPSessions)
 
  **What do i do as of now:**
  
