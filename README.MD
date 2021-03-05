@@ -12,7 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hopefuls&theme=dark)
 ## TL;DR Urls
-[Discord Server](https://discord.gg/hDxsHzN) | [Website](https://hopefuls.de) | [Email](mailto:ballinaurel@gmail.com)
+[Discord Server](https://discord.gg/hDxsHzN) | [Website](https://hopefuls.de) | [Email](mailto:aurel@hopefuls.de) | [Backup-Email](mailto:hopedevmail@yahoo.com)
 ## About me
 **What Skills do i have:**
  - <ins>Programming-wise Skills</ins>:
@@ -85,7 +85,7 @@
 ## Contact me
 - **for Business inquiries:**
   - Discord: Hope#5050
-  - E-Mail: ballinaurel@gmail.com
+  - E-Mail: aurel@hopefuls.de | hopedevmail@yahoo.com
  - **For Spigot Plugin requests or other:**
 	 - Discord: Aurel#0001
 	 - Discord-Server: https://discord.gg/hDxsHzN
