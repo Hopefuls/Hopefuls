@@ -51,7 +51,7 @@
  
  - Code Spigot Plugins on request (sometimes free, sometimes for payment)
  - Provide support on [Leoko's Spigot Resources](https://www.spigotmc.org/resources/authors/leoko.34641/) on [Discord (leoko.dev)](https://discord.com/invite/ycDG6rS)
- - Review Discord Bots on [top.gg](https://top.gg)
+ - Moderate the discord bot listing website [top.gg](https://top.gg)
 
 **My goal**
 - ..
