@@ -88,5 +88,5 @@
   - E-Mail: aurel@hopefuls.de | hopedevmail@yahoo.com
  - **For Spigot Plugin requests or other:**
 	 - Discord: Aurel#0001
-	 - Discord-Server: https://discord.gg/hDxsHzN
+	 - Discord-Server: https://discord.com/invite/DQVDY4SGT9
 
