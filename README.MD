@@ -6,11 +6,9 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/Hopefuls)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/Hopefuls)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Hopefuls&theme=dark&show_icons=true)
+![Metrics](https://metrics.lecoq.io/Hopefuls?template=classic&isocalendar=1&languages=1&introduction=1&people=1&gists=1&pagespeed=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=true&config.timezone=Europe%2FBerlin)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HopeDev&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hopefuls&theme=dark)
 ## TL;DR Urls
 [Discord Server](https://discord.gg/hDxsHzN) | [Website](https://hopefuls.de) | [Email](mailto:aurel@hopefuls.de) | [Backup-Email](mailto:hopedevmail@yahoo.com) | [My Gists](https://gist.github.com/Hopefuls)
 ## About me
