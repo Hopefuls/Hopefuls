@@ -7,7 +7,7 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/Hopefuls)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/Hopefuls)
 
-![Metrics](https://metrics.lecoq.io/Hopefuls?template=classic&isocalendar=1&languages=1&introduction=1&people=1&gists=1&pagespeed=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=true&config.timezone=Europe%2FBerlin)
+![Metrics](https://github.com/Hopefuls/Hopefuls/blob/master/github-metrics.svg)
 
 ## About me
 **What Skills do i have:**
