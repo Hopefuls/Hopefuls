@@ -3,14 +3,12 @@
 
 [Shelter is the one thing you wish, but not always require](https://www.youtube.com/watch?v=fzQ6gRAEoy0)
 
+[Discord Server](https://discord.gg/hDxsHzN) | [Website](https://hopefuls.de) | [Email](mailto:aurel@hopefuls.de) | [Backup-Email](mailto:hopedevmail@yahoo.com) | [My Gists](https://gist.github.com/Hopefuls)
 
 [![Repos Badge](https://badges.pufler.dev/repos/Hopefuls)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/Hopefuls)
 
 ![Metrics](https://metrics.lecoq.io/Hopefuls?template=classic&isocalendar=1&languages=1&introduction=1&people=1&gists=1&pagespeed=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=true&config.timezone=Europe%2FBerlin)
 
-
-## TL;DR Urls
-[Discord Server](https://discord.gg/hDxsHzN) | [Website](https://hopefuls.de) | [Email](mailto:aurel@hopefuls.de) | [Backup-Email](mailto:hopedevmail@yahoo.com) | [My Gists](https://gist.github.com/Hopefuls)
 ## About me
 **What Skills do i have:**
  - <ins>Programming-wise Skills</ins>:
