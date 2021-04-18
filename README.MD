@@ -3,7 +3,7 @@
 
 [Shelter is the one thing you wish, but not always require](https://www.youtube.com/watch?v=fzQ6gRAEoy0)
 
-[Discord Server](https://discord.gg/hDxsHzN) | [Website](https://hopefuls.de) | [Email](mailto:aurel@hopefuls.de) | [Backup-Email](mailto:hopedevmail@yahoo.com) | [My Gists](https://gist.github.com/Hopefuls)
+[Discord Server](https://discord.hopefuls.de) | [Website](https://hopefuls.de) | [Email](mailto:aurel@hopefuls.de) | [Backup-Email](mailto:hopedevmail@yahoo.com) | [My Gists](https://gist.github.com/Hopefuls)
 
 [![Repos Badge](https://badges.pufler.dev/repos/Hopefuls)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/Hopefuls)
 
