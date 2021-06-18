@@ -5,6 +5,8 @@
 
 [Discord Server](https://discord.hopefuls.de) | [Website](https://hopefuls.de) | [Email](mailto:aurel@hopefuls.de) | [Backup-Email](mailto:hopedevmail@yahoo.com) | [My Gists](https://gist.github.com/Hopefuls)
 
+![Alt](https://discord.c99.nl/widget/theme-4/669452973755072524.png)
+
 [![Repos Badge](https://badges.pufler.dev/repos/Hopefuls)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/Hopefuls)
 
 ![Metrics](https://github.com/Hopefuls/Hopefuls/blob/master/github-metrics.svg)
